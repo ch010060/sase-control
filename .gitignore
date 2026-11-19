@@ -1,0 +1,14 @@
+.DS_Store
+/validation.md
+/scratchpad.md
+/next-actions.md
+/.ai/
+/work/
+/artifacts/
+*.log
+*.conf
+*.ini
+*.key
+*.pem
+.env
+.env.*
